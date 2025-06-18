@@ -32,7 +32,7 @@
 ## 📫 Контакты
 
 - 📧 Email: dialeejee18@gmail.com
-- 🧠 Telegram @Deaignis
+- 🧠 Telegram: @Deaignis
 
 ---
 
