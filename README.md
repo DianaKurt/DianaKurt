@@ -1,21 +1,21 @@
-# Привет! Я Диана 👋
+# Hi, I'm Diana 👋
 
-Я начинающий frontend-разработчик, сейчас изучаю JavaScript, React и Vue.js. Хочу попасть на стажировку, чтобы применять знания на практике, учиться у команды и развиваться в реальных проектах.
-
----
-
-## Моя цель
-
-Попасть на стажировку / junior-позицию с фокусом на **React**,**Vue.js**, **JavaScript**, **HTML**, **CSS**.
+I'm a junior frontend developer currently learning JavaScript, React, and Vue.js. I'm looking for an internship where I can apply my skills in real projects, learn from a team, and grow as a developer.
 
 ---
 
-## Навыки
+## My Goal
+To join an internship or junior position focused on React, Vue.js, JavaScript, HTML, and CSS.
 
-- HTML / CSS / Адаптивная вёрстка
-- JavaScript (основы, DOM, функции, объекты, массивы, fetch)
-- Vue.js (на стадии изучения)
-- Git / GitHub (работа с ветками, pull request)
+
+---
+
+## Skills
+
+HTML / CSS / Responsive layout
+JavaScript (basics, DOM, functions, objects, arrays, fetch)
+Vue.js (currently learning)
+Git / GitHub (working with branches, pull requests)
 
 ---
 
@@ -23,23 +23,23 @@
 
 |       Проект         |                     Описание                     |                 Ссылка          |
 |--------------------- |--------------------------------------------------|---------------------------------|
-| 💻 Вёрстка лендинга | Pixel perfect вёрстка учебного макета             | [GitHub](https://dianakurt.github.io/Project1/) |
-| 📝 Туду-приложение  | Простое приложение для управления задачами на JS  | [GitHub](https://dianakurt.github.io/ToDo-List/)|
-| 📦 Магазин товаров  | Проект на JavaScript с корзиной и фильтрацией     | [GitHub] |
+|  Landing Page | Pixel perfect вёрстка учебного макета             | [GitHub](https://dianakurt.github.io/Project1/) |
+| To-Do App  | Простое приложение для управления задачами на JS  | [GitHub](https://dianakurt.github.io/ToDo-List/)|
+
 
 ---
 
-##  Контакты
+## Contact
 
-- 📧 Email: dialeejee18@gmail.com
--  Telegram: @Deaignis
-
----
-
-## 📍 Немного обо мне
-
-Мне 24 года, я из Алматы. Сейчас полностью сосредоточена на обучении, свободно владею временем, активно учусь и стремлюсь начать карьеру в IT. Хочу расти и решать реальные задачи в команде.
+📧 Email: dialeejee18@gmail.com
+💬 Telegram: @Deaignis
 
 ---
 
-_Спасибо, что заглянули!_
+## 📍A Bit About Me
+
+I'm 24 and based in Almaty. Right now, I’m fully focused on learning and available to dedicate my time to growing as a developer. I'm eager to work on real challenges as part of a team and contribute to meaningful projects.
+
+---
+
+_Thanks for stopping by!_
