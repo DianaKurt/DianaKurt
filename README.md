@@ -25,6 +25,7 @@ Git / GitHub (working with branches, pull requests)
 |--------------------- |--------------------------------------------------|---------------------------------|
 |  Landing Page | Pixel perfect вёрстка учебного макета             | [GitHub](https://dianakurt.github.io/Project1/) |
 | To-Do App  | Простое приложение для управления задачами на JS  | [GitHub](https://dianakurt.github.io/ToDo-List/)|
+|  Multi-play Application | 6 полноценных страниц со множеством секций и непростых UI компонентов            | [GitHub](https://dianakurt.github.io/stream-vibe/) |
 
 
 ---
