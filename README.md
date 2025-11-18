@@ -23,9 +23,9 @@ Git / GitHub (working with branches, pull requests)
 
 |       Проект         |                     Описание                     |                 Ссылка          |
 |--------------------- |--------------------------------------------------|---------------------------------|
-|  Landing Page | Pixel perfect вёрстка учебного макета             | [GitHub](https://dianakurt.github.io/Project1/) |
-| To-Do App  | Простое приложение для управления задачами на JS  | [GitHub](https://dianakurt.github.io/ToDo-List/)|
-|  Multi-play Application | 6 полноценных страниц со множеством секций и непростых UI компонентов            | [GitHub](https://dianakurt.github.io/stream-vibe/) |
+|  Landing Page | Pixel-perfect layout of a training mockup |             [GitHub](https://dianakurt.github.io/Project1/) |
+| To-Do App  | A simple task-management application built with JavaScript  | [GitHub](https://dianakurt.github.io/ToDo-List/)|
+|  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [GitHub](https://dianakurt.github.io/stream-vibe/) |
 
 
 ---
@@ -39,7 +39,7 @@ Git / GitHub (working with branches, pull requests)
 
 ## 📍A Bit About Me
 
-I'm 24 and based in Almaty. Right now, I’m fully focused on learning and available to dedicate my time to growing as a developer. I'm eager to work on real challenges as part of a team and contribute to meaningful projects.
+I'm 25 and based in Almaty. Right now, I’m fully focused on learning and available to dedicate my time to growing as a developer. I'm eager to work on real challenges as part of a team and contribute to meaningful projects.
 
 ---
 
