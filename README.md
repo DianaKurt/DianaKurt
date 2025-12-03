@@ -1,21 +1,24 @@
 # Hi, I'm Diana 👋
 
-I'm a junior frontend developer currently learning JavaScript, React, and Vue.js. I'm looking for an internship where I can apply my skills in real projects, learn from a team, and grow as a developer.
+I'm a frontend developer with experience in JavaScript, React. I work on real projects, building responsive layouts and interactive user interfaces.
 
 ---
 
 ## My Goal
-To join an internship or junior position focused on React, Vue.js, JavaScript, HTML, and CSS.
+To develop full-stack applications, combining frontend and backend skills, and constantly improving as a developer.
 
 
 ---
 
 ## Skills
 
-HTML / CSS / Responsive layout
-JavaScript (basics, DOM, functions, objects, arrays, fetch)
-Vue.js (currently learning)
-Git / GitHub (working with branches, pull requests)
+HTML / CSS / Responsive layouts
+
+JavaScript (DOM, functions, objects, arrays, fetch)
+
+React (component-based development, state management)
+
+Git / GitHub (branches, pull requests)
 
 ---
 
@@ -23,9 +26,9 @@ Git / GitHub (working with branches, pull requests)
 
 |       Проект         |                     Описание                     |                 Ссылка          |
 |--------------------- |--------------------------------------------------|---------------------------------|
+|  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [GitHub](https://dianakurt.github.io/stream-vibe/) |
 |  Landing Page | Pixel-perfect layout of a training mockup |             [GitHub](https://dianakurt.github.io/Project1/) |
 | To-Do App  | A simple task-management application built with JavaScript  | [GitHub](https://dianakurt.github.io/ToDo-List/)|
-|  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [GitHub](https://dianakurt.github.io/stream-vibe/) |
 
 
 ---
