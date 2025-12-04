@@ -27,6 +27,7 @@ Git / GitHub (branches, pull requests)
 |       Проект         |                     Описание                     |                 Ссылка          |
 |--------------------- |--------------------------------------------------|---------------------------------|
 |  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [GitHub](https://dianakurt.github.io/stream-vibe/) |
+|Weather| | [GitHub](https://github.com/DianaKurt/Weather.git)
 |  Landing Page | Pixel-perfect layout of a training mockup |             [GitHub](https://dianakurt.github.io/Project1/) |
 | To-Do App  | A simple task-management application built with JavaScript  | [GitHub](https://dianakurt.github.io/ToDo-List/)|
 
