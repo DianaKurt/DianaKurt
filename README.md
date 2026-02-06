@@ -1,4 +1,4 @@
-# Hi, I'm Diana 👋
+# I'm Diana
 
 I'm a frontend developer with experience in JavaScript, React. I work on real projects, building responsive layouts and interactive user interfaces.
 
@@ -26,7 +26,7 @@ Git / GitHub (branches, pull requests)
 
 |       Проект         |                     Описание                     |                 Ссылка          |
 |--------------------- |--------------------------------------------------|---------------------------------|
-|Form Validation App|Веб-проект с реализацией форм на JavaScript: кастомная валидация, обработка событий и работа с пользовательским вводом.| [GitHub]() |
+|Form Validation App|Веб-проект с реализацией форм на JavaScript: кастомная валидация, обработка событий и работа с пользовательским вводом.| [GitHub](https://github.com/DianaKurt/auth-project.git) |
 |  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [GitHub](https://dianakurt.github.io/stream-vibe/) |
 |Weather| web application that shows the current weather for a selected city using an external weather API. Built with vanilla JavaScript. | [GitHub](https://dianakurt.github.io/Weather/)
 |  Landing Page | Pixel-perfect layout of a training mockup |             [GitHub](https://dianakurt.github.io/Project1/) |
