@@ -26,7 +26,7 @@ Git / GitHub (branches, pull requests)
 
 |       Проект         |                     Описание                     |                 Ссылка          |
 |--------------------- |--------------------------------------------------|---------------------------------|
-|Web-application - Seeded Music Store - Музыкальный магазин с генерацией по seed|A single-page web application that generates a reproducible music catalog using deterministic seeds.
+|Seeded Music Store - Музыкальный магазин с генерацией по seed|A single-page web application that generates a reproducible music catalog using deterministic seeds.
 Songs, covers, reviews, and audio previews are generated server-side and update dynamically based on user-selected parameters. - Одностраничное веб-приложение, которое генерирует музыкальный каталог на основе seed.
 Все данные, обложки и аудио превью воспроизводимы и динамически обновляются при изменении параметров.
 |[GitHub](https://github.com/DianaKurt/web-application-music.git)|
