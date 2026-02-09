@@ -26,7 +26,11 @@ Git / GitHub (branches, pull requests)
 
 |       Проект         |                     Описание                     |                 Ссылка          |
 |--------------------- |--------------------------------------------------|---------------------------------|
-|Form Validation App|Веб-проект с реализацией форм на JavaScript: кастомная валидация, обработка событий и работа с пользовательским вводом.| [GitHub](https://github.com/DianaKurt/auth-project.git) |
+|Web-application - Seeded Music Store - Музыкальный магазин с генерацией по seed|A single-page web application that generates a reproducible music catalog using deterministic seeds.
+Songs, covers, reviews, and audio previews are generated server-side and update dynamically based on user-selected parameters. - Одностраничное веб-приложение, которое генерирует музыкальный каталог на основе seed.
+Все данные, обложки и аудио превью воспроизводимы и динамически обновляются при изменении параметров.
+|[GitHub](https://github.com/DianaKurt/web-application-music.git)|
+|Form Validation App Песочница валидации форм|A web application showcasing real-time client-side form validation with user-friendly feedback.- Веб-приложение с валидацией пользовательских форм в реальном времени.| [GitHub](https://github.com/DianaKurt/auth-project.git) |
 |  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [GitHub](https://dianakurt.github.io/stream-vibe/) |
 |Weather| web application that shows the current weather for a selected city using an external weather API. Built with vanilla JavaScript. | [GitHub](https://dianakurt.github.io/Weather/)
 |  Landing Page | Pixel-perfect layout of a training mockup |             [GitHub](https://dianakurt.github.io/Project1/) |
