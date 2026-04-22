@@ -20,9 +20,9 @@ Development Tools: Git/GitHub, NPM, Vite, REST API integration.
 
 ---
 
-## Пет-проекты
+## Pet-project
 
-|       Проект         |                     Описание                     |                 Ссылка          |
+|       Project         |                    Description                    |                 Links          |
 |--------------------- |--------------------------------------------------|---------------------------------|
 |Seeded Music Store|A procedural music store showcasing seed-based generation of songs, covers, and playable audio previews.|[GitHub](https://github.com/DianaKurt/web-application-music.git)|
 |Form Validation App|A web application showcasing real-time client-side form validation with user-friendly feedback.| [GitHub](https://github.com/DianaKurt/auth-project.git) |
