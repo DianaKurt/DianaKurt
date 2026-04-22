@@ -1,24 +1,20 @@
 # I'm Diana
+Frontend Developer | React Specialist
 
-I'm a frontend developer with experience in JavaScript, React. I work on real projects, building responsive layouts and interactive user interfaces.
-
+I build responsive, interactive, and user-centric web interfaces. I focus on writing clean, maintainable code and turning complex designs into functional reality.
 ---
 
-## My Goal
-To develop full-stack applications, combining frontend and backend skills, and constantly improving as a developer.
-
-
+## My Journey
+Currently focused on mastering the React ecosystem and building real-world projects. My goal is to evolve into a Full-Stack Developer, deeply understanding both client-side performance and robust backend architecture.
 ---
 
-## Skills
+## Tech Stack
 
-HTML / CSS / Responsive layouts
+Frontend: JavaScript (ES6+), React (Hooks, Props, Component Architecture), HTML5, CSS3.
 
-JavaScript (DOM, functions, objects, arrays, fetch)
+Layouts: Responsive & Adaptive design, BEM, Flexbox, Grid.
 
-React (component-based development, state management)
-
-Git / GitHub (branches, pull requests)
+Development Tools: Git/GitHub, NPM, Vite, REST API integration.
 
 ---
 
