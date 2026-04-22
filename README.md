@@ -41,9 +41,9 @@ Development Tools: Git/GitHub, NPM, Vite, REST API integration.
 
 ---
 
-## 📍A Bit About Me
+## 📍About Me
 
-I'm 25 and based in Almaty. Right now, I’m fully focused on learning and available to dedicate my time to growing as a developer. I'm eager to work on real challenges as part of a team and contribute to meaningful projects.
+I'm a Frontend Developer based in Almaty, currently dedicated to mastering the React ecosystem. At 25, I am in an active growth phase, ready to invest 100% of my time and energy into high-impact projects. I thrive in team environments and am eager to apply my JavaScript and React skills to solve real-world technical challenges.
 
 ---
 
