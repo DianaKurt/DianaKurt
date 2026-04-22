@@ -2,10 +2,12 @@
 Frontend Developer | React Specialist
 
 I build responsive, interactive, and user-centric web interfaces. I focus on writing clean, maintainable code and turning complex designs into functional reality.
+
 ---
 
 ## My Journey
 Currently focused on mastering the React ecosystem and building real-world projects. My goal is to evolve into a Full-Stack Developer, deeply understanding both client-side performance and robust backend architecture.
+
 ---
 
 ## Tech Stack
