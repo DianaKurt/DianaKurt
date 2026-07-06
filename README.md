@@ -25,7 +25,7 @@ Development Tools: Git/GitHub, NPM, Vite, REST API integration.
 |       Project         |                    Description                    |                 Links          |
 |--------------------- |--------------------------------------------------|---------------------------------|
 |Inventory Management Application|Full-stack web application for creating and managing customizable inventories and items.|[GitHub](https://github.com/DianaKurt/inventory-app.git)|
-|Seeded Music Store|A procedural music store showcasing seed-based generation of songs, covers, and playable audio previews.|[GitHub](https://github.com/DianaKurt/web-application-music.git)|
+|Seeded Music Store|A procedural music store showcasing seed-based generation of songs, covers, and playable audio previews.|[Open Web](https://web-application-music-2.onrender.com)|
 |Form Validation App|A web application showcasing real-time client-side form validation with user-friendly feedback.| [Open Web](https://web-application-music-2.onrender.com) |
 |  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [GitHub](https://dianakurt.github.io/stream-vibe/) |
 |Weather| web application that shows the current weather for a selected city using an external weather API. Built with vanilla JavaScript. | [GitHub](https://dianakurt.github.io/Weather/)
