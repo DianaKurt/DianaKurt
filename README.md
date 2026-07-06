@@ -29,7 +29,7 @@ Development Tools: Git/GitHub, NPM, Vite, REST API integration.
 |Form Validation App|A web application showcasing real-time client-side form validation with user-friendly feedback.| [GitHub](https://github.com/DianaKurt/auth-project.git) |
 |TicTac- Game|Real-Time Multiplayer Game|[Game](https://project-game-kwfy.onrender.com)|
 |  Multi-play Application | Six fully developed pages with numerous sections and complex UI components           | [Open](https://dianakurt.github.io/stream-vibe/) |
-|Web - It Conference| SPA with GSAP | [Open]( https://dianakurt.github.io/It-conf-project/)
+|Web - IT Conference| SPA with GSAP | [Open]( https://dianakurt.github.io/It-conf-project/)
 |Weather| web application that shows the current weather for a selected city using an external weather API. Built with vanilla JavaScript. | [Open](https://dianakurt.github.io/Weather/)
 |  Landing Page | Pixel-perfect layout of a training mockup |             [Open](https://dianakurt.github.io/Project1/) |
 | To-Do App  | A simple task-management application built with JavaScript  | [Open](https://dianakurt.github.io/ToDo-List/)|
