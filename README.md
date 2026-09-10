@@ -35,6 +35,7 @@
 
 | Проект | Описание | Ссылки |
 | --- | --- | --- |
+|TeamBoard|Multi-tenant SaaS: workspaces, Kanban-задачи, роли и Free/Pro billing (Stripe + demo).|[Open](https://teamboard-saas-m9akcejv2-dianakurts-projects.vercel.app)|
 | Inventory Management Application | Fullstack-приложение для кастомных инвентарей и товаров | [GitHub](https://github.com/DianaKurt/inventory-app) |
 | Seeded Music Store | Процедурный музыкальный магазин: треки, обложки и превью по seed | [GitHub](https://github.com/DianaKurt/web-application-music) |
 | Form Validation App | Клиентская валидация форм в реальном времени | [GitHub](https://github.com/DianaKurt/auth-project) |
